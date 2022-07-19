@@ -1,3 +1,3 @@
 ## Practica de Git
 
-hola 
+- Creamos ramas y parcticamos posibles conflictos
